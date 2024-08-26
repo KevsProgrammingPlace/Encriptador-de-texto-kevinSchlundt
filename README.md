@@ -1,7 +1,7 @@
 
 
 
-# Encriptador de Texto KevinSchlundt
+# Encriptador de Texto Alura Latam - Kevin Alexander Schlundt
 
 ¡Hola! Soy Kevin Schlundt, estudiante universitario, y este es mi proyecto de encriptación de mensajes desarrollado para el curso de Lógica de Programación de Alura Latam.
 
@@ -58,4 +58,3 @@ Para cualquier pregunta o comentario, puedes contactarme en [mi perfil de GitHub
 
 **Kevin Schlundt**  
 Estudiante Universitario | Desarrollador en Formación
-```
